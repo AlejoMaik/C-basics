@@ -1,2 +1,2 @@
 # C-basics
-Tic Tac Toe project developed in the codecademy C++ course
+Some projects developed in the codecademy C++ course
