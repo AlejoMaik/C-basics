@@ -46,5 +46,5 @@ int main() {
 
     end_game(won); //Function to print the winner
 
-    return 0; //end of the program
+    return 0; //End of the program
 }
