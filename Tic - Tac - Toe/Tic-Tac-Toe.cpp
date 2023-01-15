@@ -4,7 +4,7 @@
 
 int main() {
 
-    //vector where we can upload the position on the board
+    //Vector where we can upload the position on the board
     std::vector<char> board = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
     int turn = 0; //counter to check whose turn is (X or O)
     char won; //char 'X' means X won and 'O' means O won
