@@ -4,7 +4,7 @@
 #include "fBleep.h" //Including the header file
 
 int main() {
-    //this is the word we want to ban
+    //This is the word we want to ban
     std::string word = "broccoli";
     //Text from where we'll ban the word
     std::string text = "I sometimes eat broccoli. There are three interesting things about broccoli. Number One. "
